@@ -16,3 +16,4 @@
 - 有道翻译: https://github.com/KiviBotLab/kivibot-plugin-youdao
 - 百度百科: https://github.com/KiviBotLab/kivibot-plugin-baike
 - 点歌: https://github.com/KiviBotLab/kivibot-plugin-music
+- 搜图: https://github.com/KiviBotLab/kivibot-plugin-soutu
