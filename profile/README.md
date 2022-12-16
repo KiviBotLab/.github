@@ -15,3 +15,4 @@
 - ChatGPT: https://github.com/KiviBotLab/kivibot-plugin-chatgpt
 - 有道翻译: https://github.com/KiviBotLab/kivibot-plugin-youdao
 - 百度百科: https://github.com/KiviBotLab/kivibot-plugin-baike
+- 点歌: https://github.com/KiviBotLab/kivibot-plugin-music
