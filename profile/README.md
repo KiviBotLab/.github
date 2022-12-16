@@ -18,3 +18,4 @@
 - 点歌: https://github.com/KiviBotLab/kivibot-plugin-music
 - 搜图: https://github.com/KiviBotLab/kivibot-plugin-soutu
 - 名片点赞: https://github.com/KiviBotLab/kivibot-plugin-like
+- 王者荣耀-战力查询: https://github.com/KiviBotLab/kivibot-plugin-zlcx
