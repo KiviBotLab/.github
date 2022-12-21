@@ -22,6 +22,6 @@
 - 天气: https://github.com/KiviBotLab/kivibot-plugin-weather
 - 唱歌: https://github.com/KiviBotLab/kivibot-plugin-sing
 
-**官方插件**
+**社区插件**
 
-参考 [npm](https://npm.im/search?q=kivibot-plugin) 插件列表
+- 前往 [npm](https://npm.im/search?q=kivibot-plugin) 社区查看插件列表（包含所有官方和社区发布的插件）
