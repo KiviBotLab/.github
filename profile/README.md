@@ -9,7 +9,7 @@
 - 脚手架仓库：https://github.com/KiviBotLab/cli
 - 文档仓库：https://github.com/KiviBotLab/docs
 
-**已迁移插件**
+**官方插件**
 
 - 小爱同学: https://github.com/KiviBotLab/kivibot-plugin-ai
 - ChatGPT: https://github.com/KiviBotLab/kivibot-plugin-chatgpt
@@ -21,3 +21,7 @@
 - 战力查询（王者荣耀）: https://github.com/KiviBotLab/kivibot-plugin-zlcx
 - 天气: https://github.com/KiviBotLab/kivibot-plugin-weather
 - 唱歌: https://github.com/KiviBotLab/kivibot-plugin-sing
+
+**官方插件**
+
+参考 [npm](https://npm.im/search?q=kivibot-plugin) 插件列表
