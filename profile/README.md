@@ -21,6 +21,7 @@
 - 战力查询（王者荣耀）: https://github.com/KiviBotLab/kivibot-plugin-zlcx
 - 天气: https://github.com/KiviBotLab/kivibot-plugin-weather
 - 唱歌: https://github.com/KiviBotLab/kivibot-plugin-sing
+- 黑名单: https://github.com/KiviBotLab/kivibot-plugin-black
 
 **社区插件**
 
