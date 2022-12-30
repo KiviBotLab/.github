@@ -22,6 +22,7 @@
 - 天气: https://github.com/KiviBotLab/kivibot-plugin-weather
 - 唱歌: https://github.com/KiviBotLab/kivibot-plugin-sing
 - 黑名单: https://github.com/KiviBotLab/kivibot-plugin-black
+- 积分签到: https://github.com/KiviBotLab/kivibot-plugin-sign
 
 **社区插件**
 
