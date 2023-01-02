@@ -11,19 +11,8 @@
 
 **官方插件**
 
-- 小爱同学: https://github.com/KiviBotLab/kivibot-plugin-ai
-- ChatGPT: https://github.com/KiviBotLab/kivibot-plugin-chatgpt
-- 有道翻译: https://github.com/KiviBotLab/kivibot-plugin-youdao
-- 百度百科: https://github.com/KiviBotLab/kivibot-plugin-baike
-- 点歌: https://github.com/KiviBotLab/kivibot-plugin-music
-- 搜图: https://github.com/KiviBotLab/kivibot-plugin-soutu
-- 名片点赞: https://github.com/KiviBotLab/kivibot-plugin-like
-- 战力查询（王者荣耀）: https://github.com/KiviBotLab/kivibot-plugin-zlcx
-- 天气: https://github.com/KiviBotLab/kivibot-plugin-weather
-- 唱歌: https://github.com/KiviBotLab/kivibot-plugin-sing
-- 黑名单: https://github.com/KiviBotLab/kivibot-plugin-black
-- 积分签到: https://github.com/KiviBotLab/kivibot-plugin-sign
+- 参考文档的 [官方插件](https://beta.kivibot.com/plugin/official.html) 列表页
 
-**社区插件**
+**所有 npm 插件**
 
-- 前往 [npm](https://npm.im/search?q=kivibot-plugin) 社区查看插件列表（包含所有官方和社区发布的插件）
+- 参考文档的 [插件列表](https://beta.kivibot.com/plugin/list.html) 页
