@@ -1,6 +1,8 @@
 # KiviBot 
 
-开源、高效、跨平台的 QQ 机器人框架，使用文档：https://beta.kivibot.com
+轻量、优雅、跨平台、开发者友好的 QQ 机器人框架
+
+使用文档：https://beta.kivibot.com
 
 **仓库源码**
 
